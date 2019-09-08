@@ -9,6 +9,7 @@
   - [x]  [Gradle加速构建](https://github.com/jayknoxqu/configuration/blob/master/gradle/README.md)
   - [x]  [Maven加速构建](https://github.com/jayknoxqu/configuration/blob/master/maven/conf/README.md)
   - [x]  [清理Maven仓库](https://github.com/jayknoxqu/configuration/blob/master/maven/script/README.md)
+  - [x]  [Anaconda加速构建](https://github.com/jayknoxqu/configuration/blob/master/anaconda/README.md)
 
 
 
