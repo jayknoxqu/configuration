@@ -12,9 +12,9 @@
 
 ### 二、下载地址
 
-**Anaconda** 安装包可以在 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive下载。
+**Anaconda** 安装包可以在 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive 下载。
 
-**Miniconda** 安装包可以在https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda下载
+**Miniconda** 安装包可以在https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda 下载
 
 
 
