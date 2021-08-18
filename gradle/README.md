@@ -45,7 +45,7 @@ org.gradle.caching=true
 ```groovy
 allprojects{
     repositories {
-        def REPOSITORY_URL = 'http://maven.aliyun.com/nexus/content/groups/public/'
+        def REPOSITORY_URL = 'https://maven.aliyun.com/repository/public'
         all { ArtifactRepository repo ->
             def url = repo.url.toString()
             if ((repo instanceof MavenArtifactRepository) && (url.startsWith('https://repo1.maven.org/maven2') || url.startsWith('https://jcenter.bintray.com'))) {
